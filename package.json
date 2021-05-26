@@ -11,7 +11,7 @@
     "node-libcurl": "^1.3.0",
     "point-in-polygon": "^1.0.1",
     "promise-queue": "^2.2.5",
-    "puppeteer": "^1.3.0",
+    "puppeteer": "^3.0.0",
     "random-fake-useragent": "^0.1.0",
     "request": "^2.85.0",
     "short-hash": "^1.0.0",
